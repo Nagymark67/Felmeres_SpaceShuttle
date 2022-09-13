@@ -1,0 +1,8 @@
+C:\Users\nagy.mark\source\repos\SpaceShuttle\SpaceShuttle\bin\Debug\SpaceShuttle.exe.config
+C:\Users\nagy.mark\source\repos\SpaceShuttle\SpaceShuttle\bin\Debug\SpaceShuttle.exe
+C:\Users\nagy.mark\source\repos\SpaceShuttle\SpaceShuttle\bin\Debug\SpaceShuttle.pdb
+C:\Users\nagy.mark\source\repos\SpaceShuttle\SpaceShuttle\obj\Debug\SpaceShuttle.csproj.AssemblyReference.cache
+C:\Users\nagy.mark\source\repos\SpaceShuttle\SpaceShuttle\obj\Debug\SpaceShuttle.csproj.SuggestedBindingRedirects.cache
+C:\Users\nagy.mark\source\repos\SpaceShuttle\SpaceShuttle\obj\Debug\SpaceShuttle.csproj.CoreCompileInputs.cache
+C:\Users\nagy.mark\source\repos\SpaceShuttle\SpaceShuttle\obj\Debug\SpaceShuttle.exe
+C:\Users\nagy.mark\source\repos\SpaceShuttle\SpaceShuttle\obj\Debug\SpaceShuttle.pdb
